@@ -4,15 +4,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.Objects;
 
-
-/**
- * UQAM - Hiver 2024 - INF2120 - Groupe 30 - TP3
- * 
- * CoursFinance : Cette classe modelise un cours de finance.
- * 
- * @author Ismael Doukoure
- * @version 3 avril 2024
- */
 public class CoursFinance {
 
    //Les differents niveaux d'experiences requis pour suivre un cours
