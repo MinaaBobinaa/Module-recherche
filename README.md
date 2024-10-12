@@ -1,4 +1,3 @@
-# Repertoire des Cours de Finance
 
 ## Description
 Ce projet implémente un module de recherche d'informations sur un répertoire de cours de finance en ligne. Le programme utilise les **streams** et les **expressions lambda** en Java pour effectuer diverses opérations de recherche et de filtrage sur les cours présents dans un fichier CSV.
